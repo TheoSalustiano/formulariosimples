@@ -14,6 +14,7 @@
         <form action="">
             <fieldset>
                 <legend> Informações Pessoais</legend>
+            <br>
                 <label for="nome">Nome:</label>
                 <input type="text" id="nome" name="nome" required>
             <br>
